@@ -1,5 +1,7 @@
 # TweetMap
 
+![](https://i.imgur.com/2gLEM1C.jpg "Tweet map of Europe.")
+
 Add Twitter API keys in `run/collect.go`:
 * `TWITTER_CONSUMER_KEY`
 * `TWITTER_CONSUMER_SECRET`
