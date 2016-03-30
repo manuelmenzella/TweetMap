@@ -12,6 +12,6 @@ To collect Tweets, run:
 `go run github.com/manuelmenzella/TweetMap/main.go -collect`
 
 To generate the map, run:
-`go run github.com/manuelmenzella/TweetMap/main.go -collect`
+`go run github.com/manuelmenzella/TweetMap/main.go`
 
 Map coordinate range can be changed by editing `run/draw.go`.
